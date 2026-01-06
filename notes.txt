@@ -1,2 +1,0 @@
-This project demonstrates basic Git operations.
-Files are tracked and managed using Git.
